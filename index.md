@@ -12,8 +12,8 @@
 <img src="images/artist-employment-covid.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Budget Explorer](http://budget.council.nyc/)
+<img src="images/budget-explorer.png?raw=true"/>
 
 ---
 
