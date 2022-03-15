@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### New York City Council
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Pay Equity in NYC](https://council.nyc.gov/data/pay-equity/)
+<img src="images/pay-equity-2021.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
@@ -17,7 +17,7 @@
 
 ---
 
-### Category Name 2
+### NYC Artist Coalition
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
