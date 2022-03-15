@@ -8,8 +8,8 @@
 <img src="images/pay-equity-2021.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[The Impact of COVID-19 on NYC Artists](https://council.nyc.gov/data/artists-covid/)
+<img src="images/artist-employment-covid.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
@@ -27,6 +27,15 @@
 
 ---
 
+### Commissioned Work
+
+- [Project 1 Title](http://example.com/)
+- [Project 2 Title](http://example.com/)
+- [Project 3 Title](http://example.com/)
+- [Project 4 Title](http://example.com/)
+- [Project 5 Title](http://example.com/)
+
+---
 
 
 
